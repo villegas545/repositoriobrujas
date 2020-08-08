@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brujas", "brujas\brujas.csproj", "{8F04A703-AAED-42BE-BE26-02E1CF7D5EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F04A703-AAED-42BE-BE26-02E1CF7D5EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F04A703-AAED-42BE-BE26-02E1CF7D5EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F04A703-AAED-42BE-BE26-02E1CF7D5EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F04A703-AAED-42BE-BE26-02E1CF7D5EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B35A23-85F1-4984-9960-1B7D1F079DA4}
+	EndGlobalSection
+EndGlobal
